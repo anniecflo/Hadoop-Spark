@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Hadoop-Spark
 
 Seven Harry Potter books were used and the below objectives in this project were achieved:
@@ -8,6 +7,4 @@ Seven Harry Potter books were used and the below objectives in this project were
 3. Find top N grams in across the series
 4. Perform sentiment analysis to compare positive and negative sentiments among 7 books
 5. Create informative visuals
-=======
-# Hadoop / Spark Projects
->>>>>>> origin/master
+
